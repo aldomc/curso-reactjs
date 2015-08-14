@@ -1,4 +1,4 @@
 React = require('react');
 HelloWorld = require('./helloworld');
 
-React.render(<HelloWorld/>, document.getElementById("example"));
+React.render(<HelloWorld name="John Doe"/>, document.getElementById("example"));

@@ -1,0 +1,18 @@
+{
+  "name": "react-course",
+  "version": "0.0.1",
+  "description": "ejemplos de reactjs",
+  "keywords": [
+    "reactjs",
+    "jsx"
+  ],
+  "author": "Ramón Chancay <ramon.chancay@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^0.13.3"
+  },
+  "devDependencies": {
+    "jsx-loader": "^0.13.2",
+    "webpack": "^1.11.0"
+  }
+}
